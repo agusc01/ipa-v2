@@ -1,0 +1,12 @@
+C:\Users\cacci\Desktop\ipa-v2\IPA\CoreLibrary\bin\Debug\net5.0\CoreLibrary.deps.json
+C:\Users\cacci\Desktop\ipa-v2\IPA\CoreLibrary\bin\Debug\net5.0\CoreLibrary.dll
+C:\Users\cacci\Desktop\ipa-v2\IPA\CoreLibrary\bin\Debug\net5.0\CoreLibrary.pdb
+C:\Users\cacci\Desktop\ipa-v2\IPA\CoreLibrary\obj\Debug\net5.0\CoreLibrary.csproj.AssemblyReference.cache
+C:\Users\cacci\Desktop\ipa-v2\IPA\CoreLibrary\obj\Debug\net5.0\CoreLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cacci\Desktop\ipa-v2\IPA\CoreLibrary\obj\Debug\net5.0\CoreLibrary.AssemblyInfoInputs.cache
+C:\Users\cacci\Desktop\ipa-v2\IPA\CoreLibrary\obj\Debug\net5.0\CoreLibrary.AssemblyInfo.cs
+C:\Users\cacci\Desktop\ipa-v2\IPA\CoreLibrary\obj\Debug\net5.0\CoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\cacci\Desktop\ipa-v2\IPA\CoreLibrary\obj\Debug\net5.0\CoreLibrary.dll
+C:\Users\cacci\Desktop\ipa-v2\IPA\CoreLibrary\obj\Debug\net5.0\refint\CoreLibrary.dll
+C:\Users\cacci\Desktop\ipa-v2\IPA\CoreLibrary\obj\Debug\net5.0\CoreLibrary.pdb
+C:\Users\cacci\Desktop\ipa-v2\IPA\CoreLibrary\obj\Debug\net5.0\ref\CoreLibrary.dll

@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\Consola\\Consola.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\Consola\\Consola.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\Consola\\Consola.csproj",
+        "projectName": "Consola",
+        "projectPath": "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\Consola\\Consola.csproj",
+        "packagesPath": "C:\\Users\\cacci\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\Consola\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cacci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj": {
+                "projectPath": "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj",
+        "projectName": "CoreLibrary",
+        "projectPath": "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj",
+        "packagesPath": "C:\\Users\\cacci\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\CoreLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cacci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
