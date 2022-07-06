@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\Consola\\Consola.csproj": {}
+    "C:\\Users\\cacci\\Desktop\\ipas\\ipa-v2\\IPA\\Consola\\Consola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\Consola\\Consola.csproj": {
+    "C:\\Users\\cacci\\Desktop\\ipas\\ipa-v2\\IPA\\Consola\\Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\Consola\\Consola.csproj",
+        "projectUniqueName": "C:\\Users\\cacci\\Desktop\\ipas\\ipa-v2\\IPA\\Consola\\Consola.csproj",
         "projectName": "Consola",
-        "projectPath": "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\Consola\\Consola.csproj",
+        "projectPath": "C:\\Users\\cacci\\Desktop\\ipas\\ipa-v2\\IPA\\Consola\\Consola.csproj",
         "packagesPath": "C:\\Users\\cacci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\Consola\\obj\\",
+        "outputPath": "C:\\Users\\cacci\\Desktop\\ipas\\ipa-v2\\IPA\\Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cacci\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj": {
-                "projectPath": "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj"
+              "C:\\Users\\cacci\\Desktop\\ipas\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj": {
+                "projectPath": "C:\\Users\\cacci\\Desktop\\ipas\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj": {
+    "C:\\Users\\cacci\\Desktop\\ipas\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\cacci\\Desktop\\ipas\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj",
         "projectName": "CoreLibrary",
-        "projectPath": "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj",
+        "projectPath": "C:\\Users\\cacci\\Desktop\\ipas\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj",
         "packagesPath": "C:\\Users\\cacci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\CoreLibrary\\obj\\",
+        "outputPath": "C:\\Users\\cacci\\Desktop\\ipas\\ipa-v2\\IPA\\CoreLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cacci\\AppData\\Roaming\\NuGet\\NuGet.Config",

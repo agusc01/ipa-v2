@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\cacci\\Desktop\\ipas\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj",
       "projectName": "CoreLibrary",
-      "projectPath": "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj",
+      "projectPath": "C:\\Users\\cacci\\Desktop\\ipas\\ipa-v2\\IPA\\CoreLibrary\\CoreLibrary.csproj",
       "packagesPath": "C:\\Users\\cacci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cacci\\Desktop\\ipa-v2\\IPA\\CoreLibrary\\obj\\",
+      "outputPath": "C:\\Users\\cacci\\Desktop\\ipas\\ipa-v2\\IPA\\CoreLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cacci\\AppData\\Roaming\\NuGet\\NuGet.Config",

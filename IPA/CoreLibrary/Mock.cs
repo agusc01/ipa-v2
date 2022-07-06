@@ -35,19 +35,21 @@ namespace CoreLibrary
         public void Mocking()
         {
             this.Reading();
+            int i = 0;
             foreach(IPA ipa in this.api.DataBase)
             {
                 try
                 {
                     if (this.Serilizer(ipa))
                     {
-                        //Console.WriteLine($"Serializacion de {ipa.Word}");
+                        Console.WriteLine($"{i} - Serializacion de {ipa.Word}");
                     }
                 }
                 catch (Exception ex)
                 {
                     Console.WriteLine($"{ipa.Word} - {ex.Message}");
                 }
+                i++;
             }
         }
         
@@ -71,11 +73,11 @@ namespace CoreLibrary
                     else
                     {
                         word = line.Split(' ')[0];
-                        phonetic = line.Substring(line.IndexOf(' ') + 2);
+                        phonetic = line.Substring(line.IndexOf(' ') + 1);
                         //Console.WriteLine($"**{i}-{word}-{phonetic}");
                     }
 
-                    //Console.WriteLine($"*{i}-{word}-{phonetic}");
+                    Console.WriteLine($"*{i}-{word}-{phonetic}");
                     IPA ipa = new IPA(word, new List<string>() { phonetic });
                     bool add = this.api + ipa;
                 }
